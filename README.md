@@ -22,6 +22,7 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 </div>
 
 <br />
