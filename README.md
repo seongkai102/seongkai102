@@ -12,7 +12,7 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 <br />
 ## How i work
-이후에 작성할게용
+
 <br />
 <br />
 <br />
