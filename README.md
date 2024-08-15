@@ -1,7 +1,7 @@
 ##  JJUNIV / 전주대학교
 안녕하세요! 🙋‍♂️ 전주대 인공지능학과 학생입니다
 <br />
-자랑할게 이거 밖에 없네요
+코드업 랭커 (500위 2달컷)
 https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 <br />
