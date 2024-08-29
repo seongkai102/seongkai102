@@ -12,10 +12,6 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 <br />
 <br />
-## How i work
-<br />
-<br />
-<br />
 ## I use it often.
 <br />
 <br />
