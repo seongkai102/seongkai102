@@ -2,7 +2,7 @@
 안녕하세요! 🙋‍♂️ 전주대 인공지능학과 학생입니다
 <br />
 <br />
-코드업 랭커
+codeup - ranker
 <br />
 https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
