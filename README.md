@@ -6,6 +6,7 @@ codeup - ranker
 <br />
 https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
+<br />
 2024 co-show AIM Challenge (인공지능)
 <br />
 한국연구재단이사장상(🥈)
