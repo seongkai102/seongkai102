@@ -24,7 +24,8 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-FF6F00.svg?&style=for-the-badge&logo=mediapipe&logoColor=white"/>
-<img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logo=yolo&logoColor=black"/>
+<img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?&style=for-the-badge&logoColor=black"/>
+
 </div>
 <br />
 <br />
