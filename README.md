@@ -1,13 +1,13 @@
 ##  JJUNIV / 전주대학교
 안녕하세요! 🙋‍♂️ 전주대 인공지능학과 학생입니다
 <br />
+2024 co-show AIM Challenge 한국연구재단이사장상(🥈)
 <br />
 Codeup - Ranker
 <br />
 https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 <br />
-2024 co-show AIM Challenge 한국연구재단이사장상(🥈)
 <br />
 <br />
 ## My values
