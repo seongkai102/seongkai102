@@ -3,6 +3,7 @@
 <br />
 <br />
 2024 co-show AIM Challenge 한국연구재단이사장상(🥈)
+https://www.newsis.com/view/NISX20241125_0002971641
 <br />
 <br />
 Codeup - Ranker
