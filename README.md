@@ -15,6 +15,7 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 ## My values
 😎 언제나 페인처럼<br />
+끊임없이 배우고 탐구하는 열정적인 학습자 😊
 <br />
 <br />
 <br />
