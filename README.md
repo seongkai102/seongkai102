@@ -4,7 +4,7 @@
 <br />
 2024 co-show AIM Challenge 한국연구재단이사장상(🥈)
 <br />
-https://tinyurl.com/y5zazxkf
+https://buly.kr/jYxMG5
 <br />
 <br />
 Codeup - Ranker
