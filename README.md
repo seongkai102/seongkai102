@@ -14,11 +14,12 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 <br />
 <br />
-## My values
+## I am.
 😎 언제나 페인처럼
 <br />
 😊 끊임없이 배우고 탐구하는 열정적인 학습자
 <br />
+🧠⚡아이디어는 폭발, 디테일엔 집착, 실전에 강한 하드코어형 문제해결러.
 <br />
 <br />
 ## I use it often.
