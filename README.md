@@ -21,6 +21,8 @@ https://codeup.kr/userinfo.php?user=lsy45508297lee
 <br />
 🧠⚡아이디어는 폭발, 디테일엔 집착, 실전에 강한 하드코어형 문제해결러.
 <br />
+🔥 매일을 전장처럼 사는, 배움에 미친 전략가형 실전파 문제해결러.
+
 <br />
 ## I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
